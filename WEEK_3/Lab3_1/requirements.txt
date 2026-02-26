@@ -1,0 +1,16 @@
+# Core
+numpy==1.26.4
+
+# OpenCV (stable build with video support)
+opencv-python==4.8.1.78
+
+# YOLOv8
+ultralytics==8.1.0
+
+# Torch (CPU version)
+torch==2.1.2
+torchvision==0.16.2
+
+# Utilities
+matplotlib
+pandas
